@@ -1,5 +1,7 @@
 require "rspec"
 require_relative "../lib/do_math"
+require_relative './spec_helper'
+
 
 
 describe "#add_five" do
